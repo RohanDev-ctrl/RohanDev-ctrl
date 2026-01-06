@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rohan Phulari</h1>
 <h3 align="center">AI & Automation Engineer | Backend & LLM Systems</h3>
 
+- 🔭 I’m currently working on **Scalable cloud architectures for GenAI apps, optimizing Dockerized LLM pipelines, and multi-cloud deployments.**
 
-- 🔭 I’m currently working on **AI automation workflows, LLM integrations, and backend services**
+- 🌱 I’m currently learning **Advanced Kubernetes operators, Service Mesh (Istio), and securing hybrid-cloud AI environments.**
 
-- 🌱 I’m currently learning **RAG architectures, vector databases, backend system design**
+- 👯 I’m looking to collaborate on **Open-source MLOps tools, cloud-native infrastructure automation, and containerized RAG systems.**
 
-- 👯 I’m looking to collaborate on **Open-source AI tools, RAG systems, and automation platforms**
-
-- 🤝 I’m looking for help with **LLM evaluation, scaling inference, and production reliability**
+- 🤝 I’m looking for help with **Advanced Kubernetes orchestration for AI training, high-performance networking, and reducing cloud inference costs.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohanDev-ctrl](https://github.com/RohanDev-ctrl)
 
-- 💬 Ask me about **LLMs, RAG, OCR pipelines, n8n automation, Python APIs**
+- 💬 Ask me about **AWS/GCP Architecture, Linux Internals, Docker/Containers, Network Security, and deploying LLMs/RAG.**
 
 - 📫 How to reach me **rohanp.rising@gmail.com**
+
+- ⚡ Fun fact **I can exit Vim without Googling how to do it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
