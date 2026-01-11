@@ -29,7 +29,7 @@
 [![GitHub Streak](http://152.67.23.46:5633?user=RohanDev-ctrl)](https://git.io/streak-stats)
 
 <div align="left">
-  <img src="profile-summary-card-output/blue_green/0-profile-details.svg" width="44%">
+  <img src="profile-summary-card-output/blue_green/0-profile-details.svg" width="56%">
 </div>
 <div align="left">
   <img src="./profile-summary-card-output/radical/3-stats.svg" width="36%">
