@@ -28,19 +28,14 @@
 
 <div align="center">
 
-  <img src="http://152.67.23.46:5000/api?username=RohanDev-ctrl&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="http://152.67.23.46:5633/?user=RohanDev-ctrl&theme=radical&hide=currentStreak" height="160" alt="streak graph" />
+  <br/>
 
-  <img src="http://152.67.23.46:5000/api/top-langs/?username=RohanDev-ctrl&layout=compact&theme=radical" height="180" alt="languages graph" />
+  <img src="http://152.67.23.46:5000/api?username=RohanDev-ctrl&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="stats graph" />
+  <img src="http://152.67.23.46:5000/api/top-langs/?username=RohanDev-ctrl&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 
-  <br>
+  <br/>
 
-  <img src="http://152.67.23.46:5633/?user=RohanDev-ctrl&theme=radical&hide=currentStreak" height="180" alt="streak graph" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="80%">
 
-</div>
-
-<div align="left">
-  <img src="profile-summary-card-output/blue_green/0-profile-details.svg" width="66%">
-</div>
-<div align="left">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="36%">
 </div>
