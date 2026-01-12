@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohanDev-ctrl](https://github.com/RohanDev-ctrl)
 
-- 💬 Ask me about **AWS/GCP Architecture, Linux Internals, Docker/Containers, Network Security, and deploying LLMs/RAG.**
+- 💬 Ask me about **Network Security, AWS/GCP Architecture, Linux Internals, Docker/Containers, and deploying LLMs/RAG.**
 
 - 📫 How to reach me **rohanp.rising@gmail.com**
 
