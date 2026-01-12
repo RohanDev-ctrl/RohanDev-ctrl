@@ -31,32 +31,38 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="300">
+      <td align="center" width="200">
         <a href="https://www.credly.com/badges/502d665a-bc72-4a51-979b-014300eb25e6">
           <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="120" alt="GCP Associate Cloud Engineer" />
         </a>
         <br />
-        <br />
-        <a href="https://www.credly.com/badges/502d665a-bc72-4a51-979b-014300eb25e6">
-          <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-        </a>
+        <b>GCP Associate Cloud Engineer</b>
       </td>
-
-      <td width="50"></td>
-
-      <td align="center" width="300">
+      <td align="center" width="200">
         <a href="https://www.credly.com/badges/a74e162c-cc9a-463d-96c0-2f7a3aa3e74a">
           <img src="https://images.credly.com/size/340x340/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="120" alt="AWS GenAI" />
         </a>
         <br />
-        <br />
-        <a href="https://www.credly.com/badges/a74e162c-cc9a-463d-96c0-2f7a3aa3e74a">
-          <img src="https://img.shields.io/badge/AWS_Educate-Generative_AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-        </a>
+        <b>AWS Intro to GenAI</b>
       </td>
     </tr>
   </table>
 </div>
+### 🏆 Certifications
+<div align="left">
+  <a href="https://www.credly.com/badges/502d665a-bc72-4a51-979b-014300eb25e6">
+    <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </a>
+  
+  <br/>
+
+  <a href="https://www.credly.com/badges/a74e162c-cc9a-463d-96c0-2f7a3aa3e74a">
+    <img src="https://img.shields.io/badge/AWS_Educate-Generative_AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  </a>
+</div>
+
+
+<div align="center">
 
   <img src="http://152.67.23.46:5633/?user=RohanDev-ctrl&theme=default&hide=currentStreak" height="160" alt="streak graph" />
   <br/>
