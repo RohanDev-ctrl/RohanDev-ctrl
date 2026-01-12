@@ -42,6 +42,9 @@
         <a href="https://www.credly.com/badges/a74e162c-cc9a-463d-96c0-2f7a3aa3e74a">
           <img src="https://images.credly.com/size/340x340/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="120" alt="AWS GenAI" />
         </a>
+          <a href="https://www.credly.com/badges/502d665a-bc72-4a51-979b-014300eb25e6">
+    <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </a>
         <br />
         <b>AWS Intro to GenAI</b>
       </td>
