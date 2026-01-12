@@ -1,4 +1,4 @@
-<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/a3300ae7-2d81-4a89-bdb0-73fb1e017838" /><h1 align="center">Hi 👋, I'm Rohan Phulari</h1>
+<h1 align="center">Hi 👋, I'm Rohan Phulari</h1>
 <h3 align="center">AI & Automation Engineer | Backend & LLM Systems</h3>
 
 - 🔭 I’m currently working on **Scalable cloud architectures for GenAI apps, optimizing Dockerized LLM pipelines, and multi-cloud deployments.**
