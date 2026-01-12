@@ -48,7 +48,6 @@
     </tr>
   </table>
 </div>
-### 🏆 Certifications
 <div align="left">
   <a href="https://www.credly.com/badges/502d665a-bc72-4a51-979b-014300eb25e6">
     <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
