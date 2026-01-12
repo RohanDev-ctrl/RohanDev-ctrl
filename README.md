@@ -58,8 +58,6 @@
   </table>
 </div>
 
-<div align="center">
-
   <img src="http://152.67.23.46:5633/?user=RohanDev-ctrl&theme=default&hide=currentStreak" height="160" alt="streak graph" />
   <br/>
 
